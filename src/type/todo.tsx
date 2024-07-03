@@ -1,4 +1,4 @@
-export type TodoState = 'all' | 'completed' | 'active'
+export type TodoStates = 'all' | 'completed' | 'active'
 
 export type Todo = {
     id: number;
